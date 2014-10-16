@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atl:home|Door43 (atl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atl|d43-atl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atl/archive/master.zip|d43-atl.zip]]
+
+**Recent Changes**
+{{changes>ns = atl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atl|Ethnologue data]]
+
